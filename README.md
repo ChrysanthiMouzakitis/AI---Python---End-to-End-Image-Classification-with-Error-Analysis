@@ -1,0 +1,2 @@
+# AI---Python---End-to-End-Image-Classification-with-Error-Analysis
+Trained and compared multiple neural network classifiers in Google Colab, including transfer learning and baseline CNN models.  Reduced overfitting through iterative experimentation guided by validation performance.  Saved and versioned the best-performing model (.keras) and produced a separate demo notebook evaluating strengths/weaknesses
